@@ -1,42 +1,122 @@
 # Linux System Inventory
 
-## Overview
+> A beginner Linux administration project demonstrating core system information gathering, disk management, networking, and command-line skills using Ubuntu 26.04 LTS running in VMware Workstation.
 
-This project demonstrates fundamental Linux administration skills by collecting and documenting system information from an Ubuntu 26.04 virtual machine running in VMware Workstation.
+---
 
-The project includes:
+## Project Overview
 
-- Operating system information
-- Kernel and hardware details
-- Disk and partition information
-- Network interface configuration
-- User account information
-- Linux command-line usage
-- Basic documentation
+This project was created as part of my **Project Phoenix** portfolio while developing practical Linux administration skills for IT Support, Help Desk, and Systems Administration roles.
 
-## Skills Demonstrated
+The goal of this project was to become comfortable navigating Linux, collecting system information, and documenting a system using standard Linux command-line utilities.
 
-- Linux CLI
-- Ubuntu Administration
-- VMware Workstation
-- System Information Collection
-- Network Configuration
-- File Management
-- Documentation
-- Troubleshooting
-
-## Commands Used
-
-- uname
-- hostnamectl
-- lsblk
-- ip addr
-- getent passwd
-- cat
-- less
-- ls
+---
 
 ## Environment
 
+- Operating System: Ubuntu 26.04 LTS
+- Virtualization Platform: VMware Workstation
+- Kernel: Linux 7.x
+- Architecture: x86_64
+
+---
+
+## Skills Demonstrated
+
+- Linux Command Line (CLI)
+- Ubuntu Administration
+- VMware Workstation
+- File Navigation
+- System Documentation
+- Network Configuration
+- Disk Management
+- User Enumeration
+- Terminal Usage
+- Linux Troubleshooting
+
+---
+
+## Commands Used
+
+```bash
+uname -a
+hostnamectl
+lsblk
+ip addr
+getent passwd
+cat
+less
+ls
+```
+
+---
+
+## Project Files
+
+| File | Description |
+|-------|-------------|
+| system-info.txt | Operating system and hardware information |
+| disk.txt | Disk devices and partition layout |
+| network.txt | Network interface configuration |
+| users.txt | User account information collected from the system |
+
+---
+
+## Screenshots
+
+The screenshots included with this project demonstrate:
+
+- Linux terminal usage
+- System information collection
+- Disk configuration
+- Network configuration
+- Project directory structure
+
+Sensitive information such as machine identifiers and network information has been obscured where appropriate.
+
+---
+
+## What I Learned
+
+During this project I learned how to:
+
+- Navigate the Linux filesystem
+- Use basic Linux administrative commands
+- Gather system information
+- Inspect storage devices and partitions
+- View network interface configuration
+- Work with user account information
+- Organize project documentation
+- Build a technical portfolio using GitHub
+
+---
+
+## Future Improvements
+
+Future versions of this project will include:
+
+- Bash automation scripts
+- System monitoring
+- User and permission management
+- Package management
+- Log analysis
+- Network troubleshooting
+
+---
+
+## About Project Phoenix
+
+Project Phoenix is my personal portfolio project documenting my journey from rebuilding my technical skills to becoming a professional IT Support / Help Desk technician.
+
+Each repository demonstrates another skill learned through hands-on practice in a Linux virtual machine.
+
+---
+
+## Author
+
+Anthony Roberts
+
+GitHub:
+https://github.com/AJRobertsIT
 - Ubuntu 26.04 LTS
 - VMware Workstation
