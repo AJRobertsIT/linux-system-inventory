@@ -1,6 +1,9 @@
 # Linux System Inventory
 
 > A beginner Linux administration project demonstrating core system information gathering, disk management, networking, and command-line skills using Ubuntu 26.04 LTS running in VMware Workstation.
+> ![Ubuntu](https://img.shields.io/badge/Ubuntu-26.04-E95420?style=for-the-badge&logo=ubuntu)
+![VMware](https://img.shields.io/badge/VMware-Workstation-607078?style=for-the-badge&logo=vmware)
+![Linux](https://img.shields.io/badge/Linux-CLI-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
