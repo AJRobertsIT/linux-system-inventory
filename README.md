@@ -114,7 +114,7 @@ Each repository demonstrates another skill learned through hands-on practice in 
 
 ## Author
 
-Anthony Roberts
+Anthony J Roberts
 
 GitHub:
 https://github.com/AJRobertsIT
