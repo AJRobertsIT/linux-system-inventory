@@ -67,16 +67,31 @@ ls
 
 ## Screenshots
 
-The screenshots included with this project demonstrate:
+## Screenshots
 
-- Linux terminal usage
-- System information collection
-- Disk configuration
-- Network configuration
-- Project directory structure
+### Command Execution
 
-Sensitive information such as machine identifiers and network information has been obscured where appropriate.
+<p align="center">
+  <img src="screenshots/001-commands.png" width="850" alt="Linux commands used to create the system inventory">
+</p>
 
+### System Information
+
+<p align="center">
+  <img src="screenshots/002-system-info.png" width="850" alt="Ubuntu system and kernel information">
+</p>
+
+### Disk and Partition Information
+
+<p align="center">
+  <img src="screenshots/03-disk-layout.png" width="850" alt="Linux disk and partition layout">
+</p>
+
+### Network Configuration
+
+<p align="center">
+  <img src="screenshots/02-network.png" width="850" alt="Linux network interface configuration">
+</p>
 ---
 
 ## What I Learned
